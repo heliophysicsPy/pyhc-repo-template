@@ -1,20 +1,18 @@
 #! /usr/bin/env python3
-"""
-Awesome code that will transform heliophysics forever goes here.
-"""
+"""Awesome code that will transform heliophysics forever goes here."""
+
 
 def hello_world():
-    """
-    Print 'Hello, world!' to the console.
-    
+    """Print 'Hello, world!' to the console.
+
     Parameters
     ----------
     None
-    
+
     Returns
     -------
     None
-    
+
     Examples
     --------
     >>> hello_world()
