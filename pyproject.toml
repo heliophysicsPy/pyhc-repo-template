@@ -1,20 +1,14 @@
-[tool.flit]
-name = "my-pyhc-package"
+[project]
+name = "my_pyhc_package"
 version = "0.0.0"
-description = "A package of my awesome Python code that will transform heliophysics forever."
-
-license = "BDS-3"
-
-authors = [
-    "PyHC"
-]
-
+description = "A package of awesome Python code that will transform heliophysics forever."
+license = "BSD-3-Clause"
 readme = "README.md"
-
-repository = "https://github.com/heliophysicsPy/pyhc-repo-template"
-
 keywords = [
     "awesome",
     "heliophysics",
     "package"
 ]
+
+[project.urls]
+Homepage = "https://github.com/heliophysicsPy/pyhc-repo-template"
