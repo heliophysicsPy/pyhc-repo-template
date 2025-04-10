@@ -2,7 +2,7 @@
 name = "my_pyhc_package"
 version = "0.0.0"
 description = "A package of awesome Python code that will transform heliophysics forever."
-license = "BSD-3-Clause"
+license = { file = "LICENSE" }
 readme = "README.md"
 keywords = [
     "awesome",
