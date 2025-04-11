@@ -18,7 +18,7 @@ This repository template created by the [Python in Heliophysics Community (PyHC)
 
 ## Code Style
 
-All PyHC projects must follow the PEP 8 style recommendations. This template has been pre-configured to comply with them. Use static analysis tools to identify style deviations, e.g.:
+All PyHC projects must follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style recommendations. This template has been pre-configured to comply with them. Use static analysis tools to identify style deviations, e.g.:
   - flake8 (what this template was linted with)
   - pylint
   - Ruff
