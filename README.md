@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository template created by the Python in Heliophysics Community (PyHC) provides a foundation for new Python projects wishing to become PyHC packages. It follows all PyHC standards and best practices, making it easy for developers to start new projects that will integrate well with the PyHC ecosystem.
+This repository template created by the [Python in Heliophysics Community (PyHC)](https://pyhc.org) provides a foundation for new Python projects wishing to become PyHC packages. It follows all PyHC standards and best practices, making it easy for developers to start new projects that will integrate well with the PyHC ecosystem.
 
 ## How to Use This Template
 
