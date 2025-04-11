@@ -33,7 +33,7 @@ Testing is essential for PyHC packages. This template includes a basic test setu
 - Write integration tests that verify interactions between components
 - Measure test coverage
 
-To run tests with pytest:
+As an example, to run tests with pytest:
 ```bash
 # Run all tests
 pytest tests/
