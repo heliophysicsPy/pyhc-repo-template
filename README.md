@@ -10,10 +10,11 @@ This repository template created by the [Python in Heliophysics Community (PyHC)
 ## How to Use This Template
 
 1. Click the green "Use this template" button at the top of this GitHub repository
-2. Name your new repository and provide a description
-3. Update the `pyproject.toml` file with your package information
-4. Rename the `src/my_pyhc_package` directory to match your package name
-5. Start developing your awesome heliophysics package!
+2. Select "Create a new repository"
+3. Name your new _public_ repo and complete the remaining fields
+4. Update the `pyproject.toml` file with your package information
+5. Rename the `src/my_pyhc_package` directory to match your package name
+6. Start developing your awesome heliophysics package!
 
 ## Code Style
 
