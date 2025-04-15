@@ -121,3 +121,6 @@ Substantial prior community work was done to resolve dependency conflicts among 
 ## PyHC Standards
 
 For the complete set of PyHC standards that packages must follow, please refer to the [PyHC Standards Document](https://github.com/heliophysicsPy/standards/blob/main/standards.md).
+
+## PyHC Submission
+Did you make an awesome heliophysics package with this template? [Submit it to be a PyHC package](https://heliopython.org/docs/adding_a_project/)!
