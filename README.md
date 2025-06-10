@@ -92,6 +92,8 @@ Alternative documentation systems for Python include:
 - MkDocs
 - Jupyter Book
 
+Note: many are [compatible with Read the Docs](https://docs.readthedocs.com/platform/stable/build-customization.html).
+
 ## Code of Conduct
 
 This template includes a Code of Conduct based on the [Contributor Covenant](https://www.contributor-covenant.org/). Please review and modify `CODE_OF_CONDUCT.md` as needed for your project, but ensure it remains compatible with the Contributor Covenant.
